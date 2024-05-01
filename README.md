@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.dio.me/articles/uiux-qual-a-diferenca" title="View PDF now"><img 
-    src=".github/assets/preview.png"
-    width="400"  
+    src="/assets/preview.png"
+    width="700"  
   /></a>
 </p>
 
